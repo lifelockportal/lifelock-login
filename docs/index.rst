@@ -7,7 +7,7 @@ LifeLock is an identity protection service that helps users monitor their person
 
 .. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
-   :align: left
+   :align: center
    :target: https://aclogportal.net/
    :alt: Login Now Button
 
